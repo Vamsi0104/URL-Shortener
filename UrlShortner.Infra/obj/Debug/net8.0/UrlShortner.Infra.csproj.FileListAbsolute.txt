@@ -1,0 +1,17 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Infra.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Infra.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Infra.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.csproj.AssemblyReference.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShort.0A129A21.Up2Date
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\refint\UrlShortner.Infra.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\ref\UrlShortner.Infra.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\bin\Debug\net8.0\UrlShortner.Infra.runtimeconfig.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Infra\obj\Debug\net8.0\UrlShortner.Infra.genruntimeconfig.cache

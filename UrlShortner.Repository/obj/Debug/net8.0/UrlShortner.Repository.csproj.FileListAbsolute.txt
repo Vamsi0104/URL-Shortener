@@ -1,0 +1,17 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.csproj.AssemblyReference.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Repository.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Repository.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Repository.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Infra.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\bin\Debug\net8.0\UrlShortner.Infra.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShort.4AD03BBE.Up2Date
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\refint\UrlShortner.Repository.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\UrlShortner.Repository.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Repository\obj\Debug\net8.0\ref\UrlShortner.Repository.dll

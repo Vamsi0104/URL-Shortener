@@ -1,0 +1,11 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\bin\Debug\net8.0\UrlShortner.Entities.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\bin\Debug\net8.0\UrlShortner.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\bin\Debug\net8.0\UrlShortner.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\refint\UrlShortner.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\UrlShortner.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.Entities\obj\Debug\net8.0\ref\UrlShortner.Entities.dll

@@ -1,0 +1,11 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\bin\Debug\net8.0\UrlShortner.DTO.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\bin\Debug\net8.0\UrlShortner.DTO.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\bin\Debug\net8.0\UrlShortner.DTO.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\refint\UrlShortner.DTO.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\UrlShortner.DTO.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\UrlShortner\UrlShortner.DTO\obj\Debug\net8.0\ref\UrlShortner.DTO.dll
